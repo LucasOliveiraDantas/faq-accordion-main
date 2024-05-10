@@ -42,6 +42,7 @@ button{
     background-image: url(assets/images/background-pattern-mobile.svg) ;
     background-color: var(--bg-color);
     background-repeat: no-repeat;
+    background-size: contain;
     display: flex;
     justify-content: center;
 }
